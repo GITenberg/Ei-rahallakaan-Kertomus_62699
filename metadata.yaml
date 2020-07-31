@@ -1,0 +1,37 @@
+_repo: Ei-rahallakaan-Kertomus_62699
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mannstén, Emil
+    alias: Mannsten, Emil
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '9320'
+    url: http://www.gutenberg.org/2009/agents/9320
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Mannst%C3%A9n
+creator:
+  author:
+    agent_name: Polevoi, P. (Petr)
+    aliases:
+    - Polevoi, Petr
+    - Polevoi, P. N. (Petr Nikolaevich)
+    - Полевой, П. (Петр)
+    birthdate: 1839
+    deathdate: 1902
+    gutenberg_agent_id: '35136'
+    url: http://www.gutenberg.org/2009/agents/35136
+description: ''
+gutenberg_issued: '2020-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62699'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- GITenberg
+title: 'Ei rahallakaan: Kertomus'
+url: http://www.gutenberg.org/ebooks/62699
