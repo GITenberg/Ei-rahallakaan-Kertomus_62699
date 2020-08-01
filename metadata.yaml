@@ -1,5 +1,5 @@
 _repo: Ei-rahallakaan-Kertomus_62699
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Mannstén, Emil
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9320'
     url: http://www.gutenberg.org/2009/agents/9320
     wikipedia: https://fi.wikipedia.org/wiki/Emil_Mannst%C3%A9n
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Polevoi, P. (Petr)
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '35136'
     url: http://www.gutenberg.org/2009/agents/35136
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62699#Ei-rahallakaan-Kertomus
 gutenberg_issued: '2020-07-19'
 gutenberg_type: Text
 identifiers:
